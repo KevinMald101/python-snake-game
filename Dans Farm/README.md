@@ -11,4 +11,4 @@
 #### Wolf
 > The main enemy to Dans farm. Will eat at least one or two sheep, then will leave with it's victory.
 #### Dan
-> The owner of the farm and the son of farmer Paul. A young man with a strong body ready to work hard for his farm. Standing at 5ft 8in (174cm).
+> The owner of the farm and the son of farmer Paul. A young man with a strong body ready to work hard for his farm. Standing at 5ft 10in (177cm).

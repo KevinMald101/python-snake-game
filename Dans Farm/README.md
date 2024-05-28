@@ -7,8 +7,12 @@
 
 ### Characters
 #### Sheep
-> Main source of coins and the prey of the wolf. You're given a random number of sheep when you begin.
+> Main source of money and the prey of the wolf. You're given a random number of sheep when you begin.
+#### Goat
+> Another source of money. They are more aggressive and can attack wolfs but also you.
 #### Wolf
 > The main enemy to Dans farm. Will eat at least one or two sheep, then will leave with it's victory.
 #### Dan
 > The owner of the farm and the son of farmer Paul. A young man with a strong body ready to work hard for his farm. Standing at 5ft 10in (177cm).
+#### Paul
+> The original owner of the farm until he decided to retire to give the farm to his son Dan.
